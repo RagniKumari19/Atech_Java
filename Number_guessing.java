@@ -31,7 +31,7 @@ public class Number_guessing {
                 score--;
                 attempts++;
             }
-;        }
+        }
 
     }
 }
