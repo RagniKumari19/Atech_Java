@@ -1,4 +1,4 @@
-public class MultipleInheritance{
+public class MultiLayerInheritance {
     public static void main(String[] args) {
         CEO c = new CEO();
         System.out.println("About CEO");
